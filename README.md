@@ -1,4 +1,4 @@
-# regression_credit
+# régressions régularisées
 
 Le but de ce projet est d’implémenter des méthodes de régression (régularisées ou non) sur le jeu de données « credit_immobilier_ISF.csv ». Il s’agit d’un dataset d’informations concernant des clients voulant effectuer un emprunt. L’objectif est de prédire le montant emprunté à un client en fonction de son profil. Ceci inclue donc des informations sur sa situation personnelle et socio-professionnelle, ainsi que sur son historique en tant qu’emprunteur.
 
